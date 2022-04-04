@@ -26,8 +26,11 @@ Places to start
 These ones that can use languages like Python (and others).
 
 https://nteract.io/
+
 https://colab.research.google.com/notebooks/welcome.ipynb
+
 https://zeppelin.apache.org/
+
 https://polynote.org/
 Pycharm's notebook interface
 VSCODE's notebook interface
@@ -36,6 +39,8 @@ There may be others more interesting to you and your group. Just clear it with t
 These are different. How? And Why?
 
 https://repl.it/
+
 https://rstudio.com/
+
 http://beakerx.com/
 You get 1,000,000 extra points (each) if you find a notebook tech not listed here(!).
